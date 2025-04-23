@@ -14,5 +14,3 @@
 - SearchBar
 - WeatherDashboard (layout component)
 - CurrentWeather component
-
-https://open-meteo.com/en/docs/bom-api?latitude=-37.814&longitude=144.9633&daily=temperature_2m_max&timezone=Australia%2FSydney
