@@ -1,5 +1,4 @@
-[MINI WEATHER APP]
- (https://rbalendra.github.io/weather-react-app/)
+[MINI WEATHER APP](https://rbalendra.github.io/weather-react-app/)
 - Create a mini weather dashboard app
 - display: current temperature or today's temperature
 - toggle units if they are in celcius or farenheit
